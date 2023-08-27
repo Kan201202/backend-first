@@ -1,0 +1,1 @@
+console.log("You don't deserve to live");
